@@ -1,4 +1,4 @@
-# Bookmarkit - No more messy bookmarks #
+# Bookmarkit - Clean Your Bookmark #
 * aka the Coder Bookmarkit project *
 
 About
