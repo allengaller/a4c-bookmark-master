@@ -1,4 +1,4 @@
-# Bookmarkit - Clean Your Bookmark #
+# Bookmarkit - Tune Your Bookmark #
 * aka the Coder Bookmarkit project *
 
 About
